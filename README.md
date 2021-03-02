@@ -13,7 +13,7 @@
 <h1 align="center">    </h1>
 <h1 align="center">Stats</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kxmpetentes&show_icons=true&theme=dracula" alt="kxmpetentes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kxmpetentes&show_icons=true&theme=react" alt="kxmpetentes" /></p>
 
 <p></p>
 
