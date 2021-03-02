@@ -17,7 +17,15 @@
 
 <p></p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxmpetentes&show_icons=true&text_color=ffffff&bg_color=7fb3ff&title_color=ffffff&icon_color=ffffff" alt="kxmpetentes" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxmpetentes&show_icons=true&text_color=ffffff&bg_color=7fb3ff&title_color=ffffff&icon_color=ffffff" alt="kxmpetentes"/>
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod"/>
 
 
 <img align="center" src="https://raw.githubusercontent.com/kxmpetentes/kxmpetentes/master/bottom.svg"/>
+
+
+
+
