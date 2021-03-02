@@ -8,7 +8,7 @@
 - Discord: `kxmpetentes#9070`
 - Bot Website: [click here](https://top.gg/bot/765850867508445215)
 
-- projects: `HoodBot - PvPTraining(MinecraftServer) - DiscordCore(API for the Discord Java Wrapper)`
+- projects: `Hood Bot - PvPTraining(MinecraftServer) - DiscordCore(API for the Discord Java Wrapper)`
 </p>
 <h1 align="center">    </h1>
 <h1 align="center">Stats</h1>
