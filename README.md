@@ -6,14 +6,14 @@
 <p align="center">
 
 - Discord: `kxmpetentes#9070`
-- Bot Website: [link](https://top.gg/bot/765850867508445215)
+- Bot Website: [click here](https://top.gg/bot/765850867508445215)
 
 - projects: `HoodBot - PvPTraining(MinecraftServer) - DiscordCore(API for the Discord Java Wrapper)`
 </p>
 <h1 align="center">    </h1>
 <h1 align="center">Stats</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kxmpetentes&show_icons=true&text_color=ffffff&bg_color=7fb3ff&title_color=ffffff&icon_color=ffffff" alt="kxmpetentes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kxmpetentes&show_icons=true&theme=dracula" alt="kxmpetentes" /></p>
 
 <p></p>
 
