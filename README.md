@@ -21,7 +21,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kxmpetentes&theme=react&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kxmpetentes&theme=react"/>
 
 
 <img align="center" src="https://raw.githubusercontent.com/kxmpetentes/kxmpetentes/master/bottom.svg"/>
