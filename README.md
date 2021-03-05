@@ -1,7 +1,7 @@
 <img align="center" src="https://raw.githubusercontent.com/kxmpetentes/kxmpetentes/master/top.svg"/>
 
 <h1 align="center">Hi 👋, I'm kxmpetentes</h1>
-<h3 align="center">I'm a beginner programmer learning Java</h3>
+<h3 align="center">I'm a Java Developer</h3>
 
 <p align="center">
 
