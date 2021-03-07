@@ -40,7 +40,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kxmpetentes&theme=react"/>
 <br>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kxmpetentes&theme=react" alt="kxmpetentes" />
+[![kxmpetentes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kxmpetentes)](https://github.com/kxmpetentes/DiscordCore)
 <br>
 
 </p>
