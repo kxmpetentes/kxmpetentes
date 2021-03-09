@@ -37,9 +37,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxmpetentes&theme=react" alt="kxmpetentes"/>
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kxmpetentes&theme=react"/>
-<br>
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kxmpetentes&theme=react" alt="kxmpetentes" />
 <br>
 
